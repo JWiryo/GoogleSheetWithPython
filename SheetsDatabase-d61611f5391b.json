@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sheetsdatabase-185114",
+  "private_key_id": "d61611f5391b32e149e747253dd44588157cf5a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyzad8mn8hUNTr\njtKaC5APa/ce1hIIDm3/Q6uIlxeO64L3tb1XJZjmqBp8TpfR6wNKZbCJlh9cJyC3\njtfgxc63vwlwQ1F/sfjvD6RA+bsqQoYr1D0e42SCRh5ZkYluAViLjGdi3wvrl8JS\nvqWUh/uNvrkC8q4sh/tMr7WCrSDqzuc7/zPqRhmOe4cCi2SgUTzvnvv3AzaglnJt\nyQ1dnPUg10grrscR/jalb6ezP95DT7R34eBMckb4lr9sIr8zK5/dxh1uEAkWCKJ8\nUayJIdfLG+ik8JO9H63ewHHGXyrkeoXSRZfCOQbFp63UkxnEi6i26jusIOW7X3iP\nQbH9W2cBAgMBAAECggEAB0ZYpdhBm0b3FcMuqIW3SZhXgmu8abNgGHRd8ZmPo+EL\nR+WvH6FECYDuDHAUa14Z6PxOkKeA7MJ7CVrch8y2hJl3Qmf7xDO3FI9s6/eZLM7O\nd5Cr4LKI5afBjvx91GHlws4+a9p2OUJ4PZ57/UlD0+xeSctayK0q7V+iBYBCpEj/\ntIxqwKsUxNiAT2TVEMoIe1yNMI5uc+nLtIATkRLfKvXWtTmdqrbcSdD0dyLEaC3M\n7BaTjW7noSdydCm/T7F1TxO2qqfxVUYUueI2Un4Arh9N/9jczY9gIZk6n6eWeq4V\n+zK9s9vAXT7rBRe/sIXwb4LqUlUDtNbG2IHylidXEQKBgQDjUz3+xgrejxNxstAF\n7iajxdp0wTX0Gb2s5U9hxgg/RFoM5tp2VV0HMXPD6monK8JF2aQfFW63lmYT9gI4\nx+hNdjBbhjmS94BeyG2JSkBVBSPncFk/UiZJqQStgRJjlP5AXjLJFd6vtKlT81rL\nlaMjM96B8a+Wz/i4OgUuXv62UQKBgQDJW40EJSdF1GMOz5tzeFeKRiQTUV5YcAJK\nMa/RiXYrKFEr7OihqgHlOkuufcCF9X3bZ/qMJsM6gbEENeJcuJuVUam3PLqBjCbm\nbZbLlqY1jXzENSaC+7m5wXgJGIWSlQ4fUqc7zRP/qcN6gOdkL10s7lfk4l4mo+B4\n1upVg06JsQKBgQDYXT1vhb2IsTM3j5LxYgeC72kKoW8h43Il4qfYjq0A0qTHDN63\nrG37z7S4rx/UIpEo/Ip6T2Lu+AY2T3sz4gmX2LsUEcAwwsN681dWScbLZTYULVm0\nrBLnHyjlnykKgSAx0baSr+8g21ojHke357e7ZL4OfiO67j1z0z1lMmNK0QKBgGNA\nbVINvj39YpZ6XvWb7AqMaFvdT9Pn4jkQJMn0J/s99ETikgid9DE5evSXp75gM5li\nt2097h14r/iTVvC9TnNbvXxEwun4W3RZsGrJ50OealGMoV8PFY0qgDB7ldua/UsT\nQruHasQqueA4idYoQpVTJp/7tMz3Gj52MSvVfXEBAoGBAKXcfUNxKc8l8p/mpYJP\nGLTG+bt37/+9uymd9iCmBjb9lGliv1BAwAom/YQvzoB9xHBk/qylvnogRaPIiXgk\nRGiaA/7lTbU8XiZtcKGsUbtPFNOxQNO55Cxp+SWg0XrQbZ7qon9eakPXSTp4mac0\nU7e32QNBFEGFVEMjtFYp44oP\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheetspython@sheetsdatabase-185114.iam.gserviceaccount.com",
+  "client_id": "104937904427402352069",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheetspython%40sheetsdatabase-185114.iam.gserviceaccount.com"
+}
