@@ -13,8 +13,11 @@ sheet = client.open('Rakuten').sheet1
 all_records = sheet.get_all_records()
 pp.pprint(all_records)
 
-# single_row = sheet.range(2)
+# single_row = sheet.cell(2,1).value
 # pp.pprint(single_row)
+
+# name = sheet.find("James")
+# print("James can be found at Row:%s Column:%s" %(name.row, name.col))
 
 # sheet.update_cell(2,2,'Java')
 # single_row = sheet.row_values(2)
@@ -26,6 +29,4 @@ pp.pprint(all_records)
 
 # sheet.delete_row(2)
 
-print(sheet.row_count)
-
-
+# print(sheet.row_count)
